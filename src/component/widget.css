@@ -1,0 +1,33 @@
+.FirstWidget{
+  width: 300px;
+  height: 250px;
+  background-image: url(../assets/300\ x\ 250\ NEW\ NEW\ 0.0.jpg); 
+  background-repeat: no-repeat;
+}
+
+.dirty {
+    cursor: url(../assets/new/mouse3.png), auto;
+  }
+
+
+  .backgroundF{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/Fregance_Gif\ copy.gif); 
+    background-repeat: no-repeat;
+  }
+
+
+  .background{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/300\ x\ 250\ NEW\ NEW\ 1.jpg); 
+    background-repeat: no-repeat;
+} 
+
+.backgroundLast{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/zEnding.gif); 
+    background-repeat: no-repeat;
+}
